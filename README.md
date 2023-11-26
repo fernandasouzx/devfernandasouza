@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devfernandasouza
+- 👋 Hi, I’m Fernanda Souza
 - 👀 I’m interested in inteligence artificial and programming
 - 🌱 I’m currently learning Waste Time
 - 📫 How to reach me fernandasouza.ccomp@gmail.com
