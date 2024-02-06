@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernanda Souza
 - 👀 I’m interested in inteligence artificial and programming
-- 🌱 I’m student of computer sciece - UFMT
+- 🌱 I’m student of computer science - UFMT
 - 📫 How to reach me fernandasouza.ccomp@gmail.com
 
 <!---
