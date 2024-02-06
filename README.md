@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernanda Souza
 - 👀 I’m interested in inteligence artificial and programming
-- 🌱 I’m currently learning Waste Time
+- 🌱 I’m student of computer sciece - UFMT
 - 📫 How to reach me fernandasouza.ccomp@gmail.com
 
 <!---
